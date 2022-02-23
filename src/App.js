@@ -96,7 +96,7 @@ export default function App() {
       {status === "pending" && <Spinner />}
       <div ref={endContainer} />
 
-      {status === "resolved" && pictures.length < totalPages && (
+      {status === "resolved" && page < totalPages && (
         <LoadMoreButton onClick={incrementPage} />
       )}
       {status === "reject" && <div>Nic nie znaleziono</div>}
