@@ -2,7 +2,7 @@
   "name": "goit-react-hw-03-image-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AnatolBielow.github.io/goit-react-hw-04-hooks-image",
+  "homepage": "https://AnatolBielow.github.io/goit-react-hw-04-hooks-images",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
